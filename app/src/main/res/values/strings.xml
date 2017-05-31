@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Secret Keys</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_text_line">API Secret Key from Native Lib:</string>
+</resources>
